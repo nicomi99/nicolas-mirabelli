@@ -11,7 +11,7 @@ public class Ejercicio43 {
 			for (int j = 0; j < ancho; j++) {
 				System.out.print("*");
 			}
-			System.out.println();
+			System.out.println(;
 		}
 	}
 
